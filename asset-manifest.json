@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtk-query/static/css/main.a5ecdc07.css",
+    "main.js": "/rtk-query/static/js/main.e2b25c2a.js",
+    "index.html": "/rtk-query/index.html",
+    "main.a5ecdc07.css.map": "/rtk-query/static/css/main.a5ecdc07.css.map",
+    "main.e2b25c2a.js.map": "/rtk-query/static/js/main.e2b25c2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ecdc07.css",
+    "static/js/main.e2b25c2a.js"
+  ]
+}
